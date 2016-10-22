@@ -15,7 +15,6 @@
  // Must include
  // > STATE_MACHINE.ino
  //
- // Close Source -- CRAZY MACHINE PROJECT GROUP 5 ONLY 
  // 
  // Update Log:>
  // > Last Tested on

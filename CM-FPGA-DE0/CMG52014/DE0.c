@@ -18,6 +18,7 @@
  * Must include
  * 			>"DE0.h"
  *
+ *  Close Source -- CRAZY MACHINE PROJECT GROUP 5 ONLY
  *
  *
  *  Update Log:>
